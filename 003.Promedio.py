@@ -1,0 +1,5 @@
+n1 = float(input("Introduzca Nota 1:"))
+n2 = float(input("Introduzca Nota 2:"))
+n3 = float(input("Introduzca Nota 3:"))
+nd = (n1*0.40)+(n2*0.20)+(n3*0.40)
+print("Nota final: ",nd)
